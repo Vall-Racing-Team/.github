@@ -1,6 +1,6 @@
-# ¿Quiénes somos?
-***Vall Racing Team*** es una asociación de estudiantes de la *Universidad de Valladolid* dedicada a asentar y ampliar los conocimientos ingenieriles de sus integrantes desarrollando un monoplaza para competir en *Formula Student*.
+# About us
+***Vall Racing Team*** is an association of students from the *University of Valladolid*, dedicated to consolidate and expand the engineering knowledge of its members by developing a single-seater to compete in *Formula Student*.
 
-Nuestra misión es la de crear una academia de ingenieros capaces de afrontar y resolver problemas de una forma rápida y a ser flexibles frente a los cambios. Todo esto lo logramos gracias a los conocimientos que adquirimos a lo largo del grado, y que al paso por ***Vall Racing Team*** podemos aplicar a situaciones reales, trabajando en equipo y adquiriendo un expertice que de otra manera no podríamos.
+Our mission is to create an academy of engineers able to face and solve problems quickly and to be flexible in the face of changes. We achieve all this thanks to the knowledge that we acquire throughout the degree, and that we can apply to real situations, working as a team and acquiring an expertise that otherwise we could not.
 
-El objetivo es desarrollar un monoplaza tipo formula para competir en FSS y en otras competiciones de FS europeas, mejorando año tras año el formula e implementando tecnologías, procesos y materiales a la vanguardia.
+The goal is to develop a formula car to compete in FSS and other European FS competitions, improving year after year the formula and implementing technologies, processes and materials at the forefront.
